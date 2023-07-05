@@ -1,0 +1,13 @@
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\bin\Debug\Final Project - Hans Legaspi.exe.config
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\bin\Debug\Final Project - Hans Legaspi.exe
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\bin\Debug\Final Project - Hans Legaspi.pdb
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\obj\Debug\Final Project - Hans Legaspi.csproj.AssemblyReference.cache
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\obj\Debug\Final_Project___Hans_Legaspi.Form1.resources
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\obj\Debug\Final_Project___Hans_Legaspi.Form2.resources
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\obj\Debug\Final_Project___Hans_Legaspi.Properties.Resources.resources
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\obj\Debug\Final Project - Hans Legaspi.csproj.GenerateResource.cache
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\obj\Debug\Final Project - Hans Legaspi.csproj.CoreCompileInputs.cache
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\obj\Debug\Final Project - Hans Legaspi.exe
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\obj\Debug\Final Project - Hans Legaspi.pdb
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\obj\Debug\Final_Project___Hans_Legaspi.Form3.resources
+C:\Users\hansl\OneDrive\Documents\Project\Final Project - Hans Legaspi\Final Project - Hans Legaspi\obj\Debug\Final_Project___Hans_Legaspi.Form4.resources
